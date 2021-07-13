@@ -26,7 +26,7 @@ class _MySplashState extends State<MySplash> {
       ),
       image: Image.asset('assets/sakura_icon2.png'),
       backgroundColor: Colors.white,
-      photoSize: 180,
+      photoSize: 100,
       loaderColor: Colors.red,
     );
   }

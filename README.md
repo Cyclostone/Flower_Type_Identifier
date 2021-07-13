@@ -2,6 +2,8 @@
 
 This is a Flutter Application integrated with TFlite to identify between 4+ Flower Types by accessing Camera and Gallery.
 
+![Splash Page](demo/flower_splashgif.gif)
+![Home Page](demo/flower_homegif.gif)
 
 ## Getting Started
 
